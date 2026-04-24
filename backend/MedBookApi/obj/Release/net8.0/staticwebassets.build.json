@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "yZKSdTK4KgrHCSkD3KTqKUJ1XKgliTWgd74J5e8c6Wc=",
+  "Source": "MedBookApi",
+  "BasePath": "_content/MedBookApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
